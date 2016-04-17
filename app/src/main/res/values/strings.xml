@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Moviz</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string-array name="entries_list_preference">
+        <item>Popular</item>
+        <item>Top rated</item>
+        <item>Upcoming</item>
+    </string-array>
+
+    <string-array name="entryvalues_list_preference">
+        <item>popular</item>
+        <item>top_rated</item>
+        <item>upcoming</item>
+    </string-array>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
